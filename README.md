@@ -4,7 +4,7 @@ I'm a passionate developer & Researcher with a focus on Machine Learning and Dat
 
 - 🔭 I am honing my development and problem solving skills.
 - 🌱 I’m currently learning Decentralised Federated Learning
-  
+- 🔭 My interests are Machine Learning , Data science , Artificial Intelligence and NLP.
 
 ## 🔧 Technologies & Tools
 
