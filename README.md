@@ -11,7 +11,7 @@ I'm a passionate developer with a focus on Machine Learning and Data Science. I 
 ## 📫 How to Reach Me
 
 - LinkedIn: [Kranthi Katamouni](https://www.linkedin.com/in/kranthi-katamouni/)
-- Email: [kk749323@ohio.edu](mailto:youremail@example.com)
+- Email: [kk749323@ohio.edu](mailto:kk749323@ohio.edu)
 
 Thanks for visiting my GitHub profile!
 
