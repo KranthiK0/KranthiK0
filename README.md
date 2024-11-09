@@ -1,6 +1,6 @@
 # Hello, I'm kranthi! 👋
 
-![Coding]([https://your-image-link.com/image.png](https://unsplash.com/photos/blue-and-black-penguin-plush-toy-UT8LMo-wlyk))
+!(https://unsplash.com/photos/blue-and-black-penguin-plush-toy-UT8LMo-wlyk)
 
 I'm a passionate developer & Researcher with a focus on Machine Learning and Data Science. I enjoy building projects that combine cutting-edge technology with practical solutions. I am Currently doing a Thesis in Decentralised Federated Learning Domain , Pursuing My Master's in Computer Science at OHIO UNIVERSITY. 
 
