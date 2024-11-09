@@ -2,9 +2,9 @@
 
 I'm a passionate developer & Researcher with a focus on Machine Learning and Data Science. I enjoy building projects that combine cutting-edge technology with practical solutions. I am Currently doing a Thesis in Decentralised Federated Learning Domain , Pursuing My Master's in Computer Science at OHIO UNIVERSITY. 
 
-- 🔭 I am honing my dev and problem solving skills.
+- 🔭 I am honing my development and problem solving skills.
 - 🌱 I’m currently learning Decentralised Federated Learning
-- 
+  
 
 ## 🔧 Technologies & Tools
 
@@ -34,15 +34,8 @@ I'm a passionate developer & Researcher with a focus on Machine Learning and Dat
 - Email: [kk749323@ohio.edu](mailto:kk749323@ohio.edu)
 
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+![Profile Views](https://komarev.com/ghpvc/?username=KranthiK0)
 
 Thanks for visiting my GitHub profile!
 
