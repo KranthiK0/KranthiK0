@@ -1,7 +1,7 @@
 # Hello, I'm kranthi! 👋
 
 <p align="center">
-  <img src="https://unsplash.com/photos/a-book-and-a-small-figurine-on-a-desk-KPAQpJYzH0Y" alt="Coding Image" width="500"/>
+  <img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png" alt="Coding Image" width="500"/>
 </p>
 
 I'm a passionate developer & Researcher with a focus on Machine Learning and Data Science. I enjoy building projects that combine cutting-edge technology with practical solutions. I am Currently doing a Thesis in Decentralised Federated Learning Domain , Pursuing My Master's in Computer Science at OHIO UNIVERSITY. 
