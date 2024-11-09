@@ -10,8 +10,8 @@ I'm a passionate developer with a focus on Machine Learning and Data Science. I 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn profile link](https://www.linkedin.com/in/kranthi-katamouni/)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [Kranthi Katamouni](https://www.linkedin.com/in/kranthi-katamouni/)
+- Email: [kk749323@ohio.edu](mailto:youremail@example.com)
 
 Thanks for visiting my GitHub profile!
 
