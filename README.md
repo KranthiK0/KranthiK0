@@ -1,11 +1,9 @@
 # Hello, I'm kranthi! 👋
 
 
-I'm a passionate developer & Researcher with a focus on Machine Learning and Data Science. I enjoy building projects that combine cutting-edge technology with practical solutions. I am Currently doing a Thesis in Decentralised Federated Learning Domain , Pursuing My Master's in Computer Science at OHIO UNIVERSITY. 
+I'm a passionate developer & Researcher with a focus on Machine Learning and Software Engineering. I enjoy building projects that combine cutting-edge technology with practical solutions. 
 
-- 🔭 I am honing my development and problem solving skills.
 - 🌱 I’m  Computer Science Grad from Ohio University
-- 🔭 My interests are Machine Learning,Software Engineering and Data.
 
 ## 🔧 Technologies & Tools
 
