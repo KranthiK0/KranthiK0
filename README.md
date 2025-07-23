@@ -1,7 +1,7 @@
 # Hello, I'm kranthi! 👋
 
 
-I'm a passionate developer & Researcher with a focus on Machine Learning and Software Engineering. I enjoy building projects that combine cutting-edge technology with practical solutions. 
+I'm a passionate developer & Researcher with a focus on Data, Machine Learning and Software Engineering. I enjoy building projects that combine cutting-edge technology with practical solutions. 
 
 - 🌱 I’m  Computer Science Grad from Ohio University
 
