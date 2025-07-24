@@ -3,15 +3,15 @@
 
 I'm a passionate developer & Researcher with a focus on Data, Machine Learning and Software Engineering. I enjoy building projects that combine cutting-edge technology with practical solutions. 
 
-- 🌱 I’m  Computer Science Grad from Ohio University
+ 🌱 I’m  Computer Science Grad from Ohio University
 
 ## 🔧 Skills 
 
-- 🌱 Programming Languages: Python, Java, C++, MATLAB 
-- 🌱 Databases & APIs: MongoDB, SQL, Spring Boot, REST APIs
-- 🌱 ML & Data Science: PyTorch, Pandas, Scikit-Learn, NumPy, Matplotlib, Keras, LLMs, TensorFlow, OpenCV, NLTK
-- 🌱 DevOps & Tools: VMware, Docker, Kubernetes, CI/CD, Git, GitHub, Artifactory, Ubuntu, Linux, Agile, Postman, JIRA
-- 🌱 Operating Systems: Linux, Ubuntu, Windows
+ 🌱 Programming Languages: Python, Java, C++, MATLAB 
+ 🌱 Databases & APIs: MongoDB, SQL, Spring Boot, REST APIs
+ 🌱 ML & Data Science: PyTorch, Pandas, Scikit-Learn, NumPy, Matplotlib, Keras, LLMs, TensorFlow, OpenCV, NLTK
+ 🌱 DevOps & Tools: VMware, Docker, Kubernetes, CI/CD, Git, GitHub, Artifactory, Ubuntu, Linux, Agile, Postman, JIRA
+ 🌱 Operating Systems: Linux, Ubuntu, Windows
 
 
 
