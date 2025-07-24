@@ -8,9 +8,13 @@ I'm a passionate developer & Researcher with a focus on Data, Machine Learning a
 ## 🔧 Skills 
 
  🌱 Programming Languages: Python, Java, C++, MATLAB 
+ <br>
  🌱 Databases & APIs: MongoDB, SQL, Spring Boot, REST APIs
+ <br>
  🌱 ML & Data Science: PyTorch, Pandas, Scikit-Learn, NumPy, Matplotlib, Keras, LLMs, TensorFlow, OpenCV, NLTK
+ <br>
  🌱 DevOps & Tools: VMware, Docker, Kubernetes, CI/CD, Git, GitHub, Artifactory, Ubuntu, Linux, Agile, Postman, JIRA
+ <br>
  🌱 Operating Systems: Linux, Ubuntu, Windows
 
 
