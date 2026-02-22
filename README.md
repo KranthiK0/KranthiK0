@@ -1,51 +1,92 @@
-# Hello, I'm kranthi! 👋
+# Kranthi Katamouni — AI / ML Engineer 🚀
 
+I build production-grade AI systems, agentic applications, and scalable ML infrastructure.
 
-I'm a passionate developer & Researcher with a focus on Data, Machine Learning and Software Engineering. I enjoy building projects that combine cutting-edge technology with practical solutions. 
+My work focuses on **LLMs, Retrieval-Augmented Generation (RAG), distributed training, and real-world AI products** — bridging research and engineering to deliver practical solutions.
 
- 🌱 I’m  Computer Science Grad from Ohio University
+🎓 MS in Computer Science (Machine Learning) — Ohio University  
+🔬 Researcher | Builder | Systems-oriented Engineer  
 
-## 🔧 Skills 
+---
 
- 🌱 Programming Languages: Python, Java, C++, MATLAB 
- <br>
- 🌱 Databases & APIs: MongoDB, SQL, Spring Boot, REST APIs
- <br>
- 🌱 ML & Data Science: PyTorch, Pandas, Scikit-Learn, NumPy, Matplotlib, Keras, LLMs, TensorFlow, OpenCV, NLTK
- <br>
- 🌱 DevOps & Tools: VMware, Docker, Kubernetes, CI/CD, Git, GitHub, Artifactory, Ubuntu, Linux, Agile, Postman, JIRA
- <br>
- 🌱 Operating Systems: Linux, Ubuntu, Windows
+## 🧠 What I Specialize In
 
+- Production LLM Systems & RAG Architectures  
+- Agentic AI & Tool-Using Systems  
+- Distributed & Privacy-Preserving ML (Federated Learning)  
+- Model Deployment & Kubernetes-based Infrastructure  
+- End-to-End AI Product Development  
 
+---
 
-## MY RESEARCH 
+## 🛠️ Tech Stack
 
-- PAPER : [STACKED BI-LSTM For Petroleum Production] (https://www.sciencedirect.com/science/article/pii/S187705092300248X)
+**AI / ML**  
+PyTorch • Transformers • LLMs • RAG • Fine-tuning • Scikit-Learn • OpenCV • NLTK  
 
-<!--## 💻 Coding Profiles
+**Frameworks & Tools**  
+LangChain • LlamaIndex • FastAPI • REST APIs • Spring Boot  
 
-- ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black): [Your LeetCode Profile](https://leetcode.com/yourusername)
+**Data & Storage**  
+SQL • MongoDB • Vector Databases • Unstructured Data Processing  
 
-- ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white): [Your HackerRank Profile](https://www.hackerrank.com/yourusername)
-  
-- ![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white): [Your Codewars Profile](https://www.codewars.com/users/yourusername)
-- ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white): [Your CodeChef Profile](https://www.codechef.com/users/yourusername)
--->
+**Infrastructure & MLOps**  
+Docker • Kubernetes • CI/CD • Linux • Git • AWS  
 
+**Languages**  
+Python • Java • C++ • MATLAB  
 
+---
 
-## 📫 How to Reach Me
+## ⭐ Featured Projects
 
-- LinkedIn: [Kranthi Katamouni](https://www.linkedin.com/in/kranthi-katamouni/)
-- Email: [kk749323@ohio.edu](mailto:kk749323@ohio.edu)
+### 🔹 AI Task Prioritization Platform
+AI-powered system with voice input, automated prioritization, and reminder workflows.
 
+- Reduced task creation time by ~80% using natural language interfaces  
+- Built with containerized deployment and scalable backend  
 
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=KranthiK0)
+### 🔹 Kubernetes AI Assistant
+LLM-based assistant that queries and manages Kubernetes clusters using natural language.
 
-Thanks for visiting my GitHub profile!
+- Real-time cluster data retrieval  
+- Secure command execution workflows  
 
+---
+
+### 🔹 Production RAG Systems
+Designed hybrid retrieval pipelines with re-ranking and evaluation for real-world workflows.
+
+---
+
+## 🔬 Research
+
+📄 **Deep Stacked Bi-LSTM for Petroleum Production Forecasting**  
+Published research on advanced time-series prediction using deep learning.
+
+➡️ https://www.sciencedirect.com/science/article/pii/S187705092300248X
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Agent Architectures  
+- Efficient LLM Inference & Optimization  
+- Multi-Agent Systems  
+- AI System Design for Production  
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/kranthi-katamouni/  
+📧 Email: kranthigoud975@gmail.com  
+
+---
+
+⭐ If you’re working on interesting AI systems or research, feel free to reach out.
 <!--
 **KranthiK0/KranthiK0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
