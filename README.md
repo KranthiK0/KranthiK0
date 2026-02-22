@@ -1,4 +1,4 @@
-# Kranthi Katamouni — AI / ML Engineer 🚀
+# Kranthi Katamouni — AI / ML Engineer 
 
 I build production-grade AI systems, agentic applications, and scalable ML infrastructure.
 
