@@ -2,7 +2,7 @@
 
 I build production-grade AI systems, agentic applications, and scalable ML infrastructure.
 
-My work focuses on **LLMs, Retrieval-Augmented Generation (RAG), distributed training, and real-world AI products** — bridging research and engineering to deliver practical solutions.
+My work focuses on **LLMs, Retrieval-Augmented Generation (RAG), distributed training, and real-world AI products** which  bridges  research and engineering to deliver practical solutions.
 
 🎓 MS in Computer Science (Machine Learning) — Ohio University  
 🔬 Researcher | Builder | Systems-oriented Engineer  
